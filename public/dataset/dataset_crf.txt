@@ -1,0 +1,82 @@
+khởi nghiệp nghĩa là gì|B_HIG I_HIG B_HIG B_HIG O
+tại sao phải khởi nghiệp|B_HIG I_HIG O B_HIG I_HIG
+các bước để thực hiện khởi nghiệp|B_HIG I_HIG O O O B_HIG I_HIG
+quá trình thực hiện khởi nghiệp|B_HIG I_HIG O O B_HIG I_HIG
+startup là gì|B_HIG B_HIG O
+start up là gì|B_HIG I_HIG B_HIG O
+cách thức để khởi nghiệp|B_HIG I_HIG O B_HIG I_HIG
+vì sao phải khởi nghiệp|B_HIG I_HIG O B_HIG I_HIG
+tố chất cần có của người khởi nghiệp là gì|B_HIG I_HIG O O O B_HIG B_HIG I_HIG B_HIG O
+đặc điểm của khởi nghiệp là gì|B_HIG I_HIG O B_HIG I_HIG B_HIG O
+mục tiêu của khởi nghiệp là gì|B_HIG I_HIG O B_HIG I_HIG B_HIG O
+khởi nghiệp có những mục tiêu gì|B_HIG I_HIG O O B_HIG I_HIG O
+một số lĩnh vực có thể khởi nghiệp|O O B_HIG I_HIG O O B_HIG I_HIG
+tại sao khởi nghiệp thường thất bại|B_HIG I_HIG B_HIG I_HIG O B_HIG I_HIG
+nên dành ra số vốn bao nhiêu để khởi nghiệp|O O O O B_HIG O O O B_HIG I_HIG
+thuế là gì|B_HIG B_HIG O
+tiền là gì|B_HIG B_HIG O
+tiền tệ được lưu thông như thế nào|B_HIG I_HIG O B_HIG I_HIG O O O
+trí tuệ nhân tạo là gì|B_HIG I_HIG B_HIG I_HIG B_HIG O
+AI là gì|B_HIG B_HIG O
+khởi nghiệp bằng kinh doanh đồ uống có cạnh tranh không|B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG O O O O
+công nghệ thông tin là gì|B_HIG I_HIG B_HIG I_HIG B_HIG O
+có cần luật sư khi mở công ty không|O O B_HIG I_HIG O B_HIG B_HIG I_HIG O
+nên dành ra số vốn bao nhiêu khi bắt đầu khởi nghiệp|O O O O B_HIG O O O B_HIG I_HIG B_HIG I_HIG
+có nên thành lập công ty khi tuổi còn quá trẻ|O O B_HIG I_HIG B_HIG I_HIG O O O O O
+lĩnh vực có thể khởi nghiệp|B_HIG I_HIG O O B_HIG I_HIG
+các nhà đầu tư mạo hiểm chú ý đến|O B_HIG I_HIG I_HIG B_HIG I_HIG B_HIG I_HIG O
+đăng ký doanh nghiệp ở đâu|B_HIG I_HIG B_HIG I_HIG O O
+cách tìm vốn đầu tư nước ngoài|O O B_HIG B_HIG I_HIG B_HIG I_HIG
+nên đặt trụ sở doanh nghiệp ở đâu|O O B_HIG I_HIG B_HIG I_HIG O O
+các đối thủ cạnh trạnh|O B_HIG I_HIG B_HIG I_HIG
+các loại thuế cần chi trả là gì|O O B_HIG O B_HIG I_HIG B_HIG O
+cách để quản lí doanh nghiệp là gì|O O B_HIG I_HIG B_HIG I_HIG B_HIG O
+các loại bảo hiểm cho doanh nghiệp là gì|O O B_HIG I_HIG O B_HIG I_HIG B_HIG O
+cách làm sản phẩm của mình khác biệt so với thị trường|O O B_HIG I_HIG O O B_HIG I_HIG O O B_HIG I_HIG
+lí do nào khách hàng chọn mua hàng của tôi|B_HIG I_HIG O B_HIG I_HIG O B_HIG B_HIG O O
+phương pháp để thu hút khách hàng|B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG
+khởi nghiệp là thuật ngữ chỉ về những công ty|B_HIG I_HIG B_HIG O O O O O O O
+12 bước để khởi nghiệp|O B_HIG O B_HIG I_HIG
+8 tố chất cần có để khởi nghiệP|O B_HIG I_HIG O O O B_HIG I_HIG
+mọi dự án khởi nghiệp đều có 2 đặc điểm|O O O B_HIG I_HIG O O O B_HIG I_HIG
+mục tiêu của khởi nghiệp là tạo ra giá trị|B_HIG I_HIG O B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG
+người nào cũng có thể khởi nghiệp|B_HIG O O O O B_HIG I_HIG
+khởi nghiệp bằng kinh doanh đồ uống có cạnh tranh không|B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG O O O O
+công nghệ thông tin là gì|B_HIG I_HIG B_HIG I_HIG B_HIG O
+có cần luật sư khi mở công ty không|O O B_HIG I_HIG O B_HIG B_HIG I_HIG O
+nên dành ra số vốn bao nhiêu khi bắt đầu khởi nghiệp|O O O O B_HIG O O O B_HIG I_HIG B_HIG I_HIG
+có nên thành lập công ty khi tuổi còn quá trẻ|O O B_HIG I_HIG B_HIG I_HIG O O O O O
+lĩnh vực có thể khởi nghiệp|B_HIG I_HIG O O B_HIG I_HIG
+các nhà đầu tư mạo hiểm chú ý đến|O B_HIG I_HIG I_HIG B_HIG I_HIG B_HIG I_HIG O
+đăng ký doanh nghiệp ở đâu|B_HIG I_HIG B_HIG I_HIG O O
+cách tìm vốn đầu tư nước ngoài|O O B_HIG B_HIG I_HIG B_HIG I_HIG
+nên đặt trụ sở doanh nghiệp ở đâu|O O B_HIG I_HIG B_HIG I_HIG O O
+các đối thủ cạnh trạnh|O B_HIG I_HIG B_HIG I_HIG
+các loại thuế cần chi trả là gì|O O B_HIG O B_HIG I_HIG B_HIG O
+cách để quản lí doanh nghiệp là gì|O O B_HIG I_HIG B_HIG I_HIG B_HIG O
+các loại bảo hiểm cho doanh nghiệp là gì|O O B_HIG I_HIG O B_HIG I_HIG B_HIG O
+cách làm sản phẩm của mình khác biệt so với thị trường|O O B_HIG I_HIG O O B_HIG I_HIG O O B_HIG I_HIG
+lí do nào khách hàng chọn mua hàng của tôi|B_HIG I_HIG O B_HIG I_HIG O B_HIG B_HIG O O
+phương pháp để thu hút khách hàng|B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG
+khởi nghiệp là thuật ngữ chỉ về những công ty|B_HIG I_HIG B_HIG O O O O O O O
+khởi nghiệp|O B_HIG O B_HIG I_HIG
+tố chất cần có để khởi nghiệP|O B_HIG I_HIG O O O B_HIG I_HIG
+mọi dự án khởi nghiệp đều có 2 đặc điểm|O O O B_HIG I_HIG O O O B_HIG I_HIG
+mục tiêu của khởi nghiệp là tạo ra giá trị|B_HIG I_HIG O B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG
+người nào cũng có thể khởi nghiệp|B_HIG O O O O B_HIG I_HIG
+thủ đô hà nội nằm ở đâu|B_HIG I_HIG I_HIG I_HIG O O
+tại sao khởi nghiệp hay thất bại|B_HIG I_HIG B_HIG I_HIG O B_HIG I_HIG
+cần bao nhiêu tiền để khởi nghiệp|B_HIG I_HIG B_HIG I_HIG O B_HIG I_HIG
+nên đầu tư vào lĩnh vực gì|O B_HIG I_HIG O O O B_HIG I_HIG
+khởi nghiệp là những công ty mới thành lập|B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG
+nguyên nhân dẫn đến khởi nghiệp thất bại|O O B_HIG I_HIG B_HIG I_HIG O O O O O
+mọi dự án khởi nghiệp đều có 2 đặc điểm|O O O B_HIG I_HIG O O O B_HIG I_HIG
+mục tiêu của khởi nghiệp là tạo ra giá trị|B_HIG I_HIG O B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG
+người nào cũng có thể khởi nghiệp|B_HIG O O O O B_HIG I_HIG
+khởi nghiệp bằng kinh doanh đồ uống có cạnh tranh không|B_HIG I_HIG O B_HIG I_HIG B_HIG I_HIG O O O O
+công nghệ thông tin là gì|B_HIG I_HIG B_HIG I_HIG B_HIG O
+có cần luật sư khi mở công ty không|O O B_HIG I_HIG O B_HIG B_HIG I_HIG O
+nên dành ra số vốn bao nhiêu khi bắt đầu khởi nghiệp|O O O O B_HIG O O O B_HIG I_HIG B_HIG I_HIG
+có nên thành lập công ty khi tuổi còn quá trẻ|O O B_HIG I_HIG B_HIG I_HIG O O O O O
+lĩnh vực có thể khởi nghiệp|B_HIG I_HIG O O B_HIG I_HIG
+các nhà đầu tư mạo hiểm chú ý đến|O B_HIG I_HIG I_HIG B_HIG I_HIG B_HIG I_HIG O
